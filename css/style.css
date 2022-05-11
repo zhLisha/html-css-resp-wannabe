@@ -149,10 +149,22 @@ img {
     .lessons .col img, .steps .col img{
         height: 250px;
     }
+    .lessons, .why-us{
+        padding-bottom: 40px;
+    }
 
     .why-us img{
         padding-top: 0;
         padding-bottom: 30px;
     }
-
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0rem;
+    }
+    .steps{
+        margin: 0rem;
+    }
+    h2 {
+        margin-bottom: 0rem;
+    }
 }   
